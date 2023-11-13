@@ -149,7 +149,7 @@ fabric.properties
 .ionide
 
 ### Custom
-www/
+www/*
 !www/index.php
 
 # End of https://www.toptal.com/developers/gitignore/api/phpunit,phpstorm,visualstudiocode

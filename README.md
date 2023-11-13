@@ -1,7 +1,7 @@
 
 # Docker lamp + xdebug
 
-Docker with Apache, MySQL 8.0, PHPMyAdmin and PHP.
+Docker with Apache, MySQL 8.0, PHPMyAdmin, PHP with Composer and xdebug.
 
 I use docker-compose as an orchestrator. To run these containers:
 
